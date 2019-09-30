@@ -1,0 +1,9 @@
+{
+  "name": "Emoticons",
+  "unique_name": "com.github.scx.notepadqq-extensions.emoticons",
+  "author": "scx",
+  "version": "0.0.1",
+  "description": "Insert emoticons",
+  "runtime": "nodejs",
+  "main": "main.js"
+}

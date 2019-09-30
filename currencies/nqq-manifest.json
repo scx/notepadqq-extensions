@@ -1,0 +1,9 @@
+{
+  "name": "Currencies",
+  "unique_name": "com.github.scx.notepadqq-extensions.currencies",
+  "author": "scx",
+  "version": "0.0.1",
+  "description": "Insert currency symbols",
+  "runtime": "nodejs",
+  "main": "main.js"
+}
